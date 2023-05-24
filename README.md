@@ -44,4 +44,4 @@ And I also have a huge interest on 3D printers!
 </a>                                                                          
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigityektin&layout=compact)](https://github.com/yigityektin/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigityektin&layout=compact)](https://github.com/yigityektin/github-readme-stats)
