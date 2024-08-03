@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @yigityektin</h1>
-I'm 19 years old and I'm studying Electric & Electronic Engineering in Marmara University.<br>
-I'm interested in coding and electronics!
+I'm 20 years old and I'm studying Electric & Electronic Engineering in Marmara University.<br>
+I'm interested in coding, electronics, and blockchain stuff including coding and researching!
 And I also have a huge interest on 3D printers!
 
 <h2> 🌱 &nbsp;I'm currently learning</h2>
