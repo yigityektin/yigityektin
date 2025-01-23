@@ -1,6 +1,6 @@
 - 21, EEE student in Marmara University.
 - Learning: Rust, C.
 - Can: Solidity, Java, JS, TS, Python.
-- Research @ 2077 Collective, Pharus, ITU Blockchain.
+- Research @ 2077 Collective, Pharus, and ITU Blockchain.
 - [X Profile](https://x.com/yigityektin)
 - [Medium](https://medium.com/@yigit.yektin)
